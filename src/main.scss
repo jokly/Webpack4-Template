@@ -1,0 +1,15 @@
+@import 'scss/fonts';
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    font-family: HighlandGothicFLF;
+    padding: 20px;
+}
+
+.container__text {
+    text-align: center;
+}
